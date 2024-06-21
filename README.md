@@ -1,4 +1,4 @@
-# DS6502 Data Analysis and Visualisation
+# DS6502 Data Analysis and Visualization
 
 This course is designed to teach learners the fundamental concepts and techniques of analyzing and visualizing data at Whitireia and WelTec. The purpose of this course is to help learners develop the necessary skills to extract insights from data and present them in a compelling and understandable way.
 Through this course, learners will gain hands-on experience with various data analysis tools and techniques, including data cleaning, data manipulation, data visualisation, and statistical analysis. 
